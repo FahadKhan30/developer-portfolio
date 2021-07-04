@@ -65,4 +65,5 @@ h2{
   border-image: linear-gradient(rgba(35, 179, 159, 0.829),navy);
   border-image-slice: 1;
 }
-footer{text-align: center;}
+footer{
+  text-align: center;}
